@@ -3,7 +3,7 @@
 Generate nonogram scenario randomly and Visualize with matplotlib
 
 ### Demo
-
+![alt text](https://github.com/agtmwebtoon/nonogram-generator/blob/main/monogram.png?raw=true)
 
 
 ### Prerequisites
